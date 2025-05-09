@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Credits
 
-This project [Custom Http Request Logic] was created by **Shofikul Islam**.
+This Cudtom Php Api Request was created by me **Shofikul Islam**.
