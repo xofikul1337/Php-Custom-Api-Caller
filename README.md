@@ -1,38 +1,28 @@
 
 
----
+# Custom API Caller
 
-Custom API Caller
-
-A lightweight PHP HTTP client built for making API requests, supporting GET, POST, PUT, and PATCH methods. This utility is designed for flexible usage, including passing data, handling custom headers (with optional Bearer token authentication), and parsing JSON responses.
-
+A lightweight PHP HTTP client built for making API requests, supporting `GET`, `POST`, `PUT`, and `PATCH` methods. This utility is designed for flexible usage, including passing data, handling custom headers (with optional Bearer token authentication), and parsing JSON responses.
 
 ---
 
-Features
+## Features
 
-Supports HTTP methods: GET, POST, PUT, PATCH
-
-Handles Authorization with Bearer tokens
-
-Allows setting custom request headers
-
-Automatically handles JSON encoding and decoding
-
-Configurable timeout and SSL verification
-
-Simple and informative error handling
-
-
+- Supports HTTP methods: `GET`, `POST`, `PUT`, `PATCH`
+- Handles **Authorization** with Bearer tokens
+- Allows setting **custom request headers**
+- Automatically handles **JSON encoding and decoding**
+- Configurable **timeout** and **SSL verification**
+- Simple and informative **error handling**
 
 ---
 
-Installation
+## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/xofikul1337/Php-Custom-Api-Caller.git
-
+   ```bash
+   git clone https://github.com/xofikul1337/Php-Custom-Api-Caller.git
 
 2. Navigate to the project directory:
 
@@ -110,6 +100,4 @@ Credits
 
 Custom HTTP Request Logic was created by Shofikul Islam.
 
-
----
 
