@@ -1,5 +1,5 @@
 
-````
+
 # Custom API Caller
 
 This is a custom PHP HTTP client built for making API requests with support for `GET`, `POST`, `PUT`, and `PATCH` methods. The client is designed to handle various use cases, including passing data, handling headers (with optional authentication), and parsing JSON responses.
@@ -22,7 +22,7 @@ This is a custom PHP HTTP client built for making API requests with support for 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/xofikul 1337/Php-Custom-Api-Caller.git
 ````
 
 2. Navigate to the project directory:
